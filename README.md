@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- ⚡ I am a Bioengineer dedicated to software development.
+- 😄 I define myself as a positive, enthusiastic and restless person, but above all adaptable to changes, I’m always willing to learn and face new challenges.
+- 🔭 I’m currently working on a chilenean company called Cocha
+- 🤔 My stack is Java, Angular, NodeJs
+
 <!--
 **alejandrojuarez675/alejandrojuarez675** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
